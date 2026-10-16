@@ -1,0 +1,28 @@
+#these are constant variable that will not change
+FPS = 60
+
+ROWS =15
+COLUMNS = 15
+TILE_SIZE = 48
+SCREEN_WIDTH = TILE_SIZE * COLUMNS
+SCREEN_HEIGHT = TILE_SIZE * ROWS
+SIDE_PANEL = 300
+
+#Game mechanics
+HEALTH = 10
+MONEY = 1000
+
+
+
+#enemy CONSTANTS !!!!!
+SPAWN_COOLDOWN = 367
+
+#turret constants
+ANIMATION_STEPS = 5
+ANIMATION_DELAY = 67
+KILL_REWARD = 500
+WAVE_BONUS = 999
+TOWER_LEVELS = 3
+
+UPGRADE_COST = 109
+DAMAGE = 5
